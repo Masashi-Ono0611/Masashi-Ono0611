@@ -25,6 +25,6 @@ Co-founder & CEO of [Bagel Finance](https://bagel-finance-omniston.0xbagel.com/)
 
 ## 🛠️ My Work & Portfolio
 Here are some of the notable projects I'm involved in or have created:
-- **Bagel Finance🥯**: DeFi pioneering index-style portfolio investing on TON.
-  - Working App: [bagel-finance-omniston.0xbagel.com](https://bagel-finance-omniston.0xbagel.com/)
-  - More Details: [linktr.ee/bagel_fi_ton](https://linktr.ee/bagel_fi_ton)
+### **Bagel Finance🥯**: DeFi pioneering index-style portfolio investing on TON.
+- Working App: [bagel-finance-omniston.0xbagel.com](https://bagel-finance-omniston.0xbagel.com/)
+- More Details: [linktr.ee/bagel_fi_ton](https://linktr.ee/bagel_fi_ton)
