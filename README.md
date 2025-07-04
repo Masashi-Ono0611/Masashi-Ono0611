@@ -1,34 +1,30 @@
 # 👋 Hi, I'm Masa
-Co-founder & CEO of [Bagel Finance](https://bagel.finance) 🥯 | Building a Game & DeFi app on [TON Blockchain](https://ton.org).  
-🏆 **Winner of TON Bootcamp in Bangkok** | 🇯🇵
+Co-founder & CEO of [Bagel Finance](https://bagel-finance-omniston.0xbagel.com/) 🥯 | Building a Game & DeFi app on [TON Blockchain](https://ton.org).  🏆 **Winner of TON Bootcamp in Bangkok** | 🇯🇵
 
 ## 🚀 Tech Stack  
-**Frontend**:  
-- Next.js + TypeScript  
-- Latest App Router  
-- Chakra UI 
+### TON Blockchain Smart Contract Development
+- FunC (domain-specific language for TON contracts)
 
-**Backend**:  
-- Prisma for database  
-- Telegram API & CoinGecko API  
+### Frontend
+- Next.js + TypeScript
+- App Router (latest version)
+- Chakra UI v2
 
-**TON Integration**:  
-- `tonconnect/ui-react` for wallets  
-- `ton/ton` & `dedust/sdk` for blockchain data  
+### Backend
+- Prisma for database
+- Telegram API for bots and payments
+- CoinGecko API for cryptocurrency prices
 
-**Telegram Mini Apps**:  
-- TMA-specific routing & development workflow
-<!--
-**Masashi-Ono0611/Masashi-Ono0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### TON Blockchain Integration
+- `tonconnect/ui-react` for wallet interactions
+- `ton/ton`, `dedust/sdk` and `Omniston/sdk` for blockchain data retrieval
 
-Here are some ideas to get you started:
+### Telegram Mini Apps
+- TMA-specific routing and development workflow
+- Mock system for simulating TMA behavior in local environment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Work & Portfolio
+Here are some of the notable projects I'm involved in or have created:
+- **Bagel Finance**: DeFi pioneering index-style portfolio investing on TON.
+  - Working app: [bagel-finance-omniston.0xbagel.com](https://bagel-finance-omniston.0xbagel.com/)
+  - More Details: [linktr.ee/bagel_fi_ton](https://linktr.ee/bagel_fi_ton)
