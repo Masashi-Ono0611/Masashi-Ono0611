@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Masa
-Co-founder & CEO of [Bagel Finance](https://bagel-finance-omniston.0xbagel.com/) 🥯 | Building a Game & DeFi app on [TON Blockchain](https://ton.org).  🏆 **Winner of TON Bootcamp in Bangkok** | 🇯🇵
+Co-founder & CEO of [Bagel Finance](https://bagel-finance-omniston.0xbagel.com/) 🥯 | Building a Game & DeFi app on [TON Blockchain](https://ton.org).  🏆 Winner of TON Bootcamp in Bangkok | 🇯🇵
 
 ## 🚀 Tech Stack  
 ### TON Blockchain Smart Contract Development
@@ -25,6 +25,6 @@ Co-founder & CEO of [Bagel Finance](https://bagel-finance-omniston.0xbagel.com/)
 
 ## 🛠️ My Work & Portfolio
 Here are some of the notable projects I'm involved in or have created:
-- **Bagel Finance**: DeFi pioneering index-style portfolio investing on TON.
-  - Working app: [bagel-finance-omniston.0xbagel.com](https://bagel-finance-omniston.0xbagel.com/)
+- **Bagel Finance🥯**: DeFi pioneering index-style portfolio investing on TON.
+  - Working App: [bagel-finance-omniston.0xbagel.com](https://bagel-finance-omniston.0xbagel.com/)
   - More Details: [linktr.ee/bagel_fi_ton](https://linktr.ee/bagel_fi_ton)
