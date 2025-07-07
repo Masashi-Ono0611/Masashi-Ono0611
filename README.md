@@ -7,8 +7,8 @@ Co-founder & CEO of [Bagel Finance](https://bagel-finance-omniston.0xbagel.com/)
 
 ### Frontend
 - Next.js + TypeScript
-- App Router (latest version)
-- Chakra UI v2
+- App Router
+- Tailwind CSS
 
 ### Backend
 - Prisma for database
