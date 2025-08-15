@@ -32,5 +32,5 @@ DeFi for index-style portfolio investing on TON.
 
 ### **TonFusion💎** (Unite Defi ETHGlobal 2025) : 
 1inch's cross-chain swap extend Fusion+ to TON.
-- Demo: [https://ethglobal.com/showcase/tonfusion-rbs33](https://ethglobal.com/showcase/tonfusion-rbs33)
-- GitHub: [https://github.com/Tanguyvans/TonFusion/](https://github.com/Tanguyvans/TonFusion/tree/main/)
+- Demo: [ethglobal.com/showcase/tonfusion-rbs33](https://ethglobal.com/showcase/tonfusion-rbs33)
+- GitHub: [TonFusion](https://github.com/Tanguyvans/TonFusion/tree/main/)
