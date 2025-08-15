@@ -30,7 +30,7 @@ DeFi for index-style portfolio investing on TON.
 - Working App: [bagel-finance-omniston.0xbagel.com](https://bagel-finance-omniston.0xbagel.com/)
 - More Details: [linktr.ee/bagel_fi_ton](https://linktr.ee/bagel_fi_ton)
 
-### **TonFusion💎**: 
-1inch's cross-chain swap extend Fusion+ to TON. (Unite Defi ETHGlobal 2025) 
+### **TonFusion💎** (Unite Defi ETHGlobal 2025) : 
+1inch's cross-chain swap extend Fusion+ to TON.
 - Demo: [https://ethglobal.com/showcase/tonfusion-rbs33](https://ethglobal.com/showcase/tonfusion-rbs33)
 - GitHub: [https://github.com/Tanguyvans/TonFusion/](https://github.com/Tanguyvans/TonFusion/tree/main/)
