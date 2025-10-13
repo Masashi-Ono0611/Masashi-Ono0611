@@ -32,7 +32,7 @@ DeFi for index-style portfolio investing on TON.
 
 ### **Opensource Orchestra** @ETHGlobal 2025 New Delhi / 1st Place of ENS Track
 Where Ethereum musicians and community connect in a giving economy. 
-- Demo: [ethglobal.com/showcase/tonfusion-rbs33](https://ethglobal.com/showcase/tonfusion-rbs33)](https://ethglobal.com/showcase/opensource-orchestra-y1egw)
+- Demo: [ethglobal.com/showcase/opensource-orchestra-y1egw](https://ethglobal.com/showcase/opensource-orchestra-y1egw)
 - GitHub: [Opensource Orchestra](https://github.com/grmkris/opensource-orchestra)
 
 ### **TonFusion💎** : @ETHGlobal 2025 Unite Defi
