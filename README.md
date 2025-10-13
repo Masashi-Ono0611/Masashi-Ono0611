@@ -62,7 +62,7 @@ Extending 1inch Fusion+ cross-chain swaps to TON Blockchain.
 
 ---
 
-### **Base Japan Vibe Coding Mini Hackathon**  
+### **Bonsai to Earn** — *@Base Japan Vibe Coding Mini Hackathon* 
 Enjoy Bonsai to Earn — a Base/Farcaster mini app.  
 - Demo: [farcaster.xyz/miniapps/0nOSS2sYLVUg/base-miniapp-001](https://farcaster.xyz/miniapps/0nOSS2sYLVUg/base-miniapp-001)  
 - GitHub: [github.com/Masashi-Ono0611/base-miniapp](https://github.com/Masashi-Ono0611/base-miniapp)
