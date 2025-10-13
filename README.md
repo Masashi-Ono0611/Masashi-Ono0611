@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Masa  
 Co-founder & CEO of [**Bagel Finance**](https://bagel-finance-omniston.0xbagel.com/) 🥯  
 Building a Game & DeFi app on [TON Blockchain](https://ton.org)  
-🏆 Winner of TON Bootcamp in Bangkok | from 🇯🇵
+Winner of TON Bootcamp in Bangkok 🏆 | from 🇯🇵
 
 ---
 
