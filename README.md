@@ -56,9 +56,16 @@ A giving-economy platform connecting Ethereum musicians and communities.
 ---
 
 ### **TonFusion**  — *@ETHGlobal 2025 Unite DeFi*  
-Extending **1inch Fusion+ cross-chain swaps** to **TON Blockchain.**  
+Extending 1inch Fusion+ cross-chain swaps to TON Blockchain.  
 - Demo: [ethglobal.com/showcase/tonfusion-rbs33](https://ethglobal.com/showcase/tonfusion-rbs33)  
 - GitHub: [github.com/Tanguyvans/TonFusion](https://github.com/Tanguyvans/TonFusion/tree/main/)
+
+---
+
+### **Base Japan Vibe Coding Mini Hackathon**  
+Enjoy Bonsai to Earn — a Base/Farcaster mini app.  
+- Demo: [farcaster.xyz/miniapps/0nOSS2sYLVUg/base-miniapp-001](https://farcaster.xyz/miniapps/0nOSS2sYLVUg/base-miniapp-001)  
+- GitHub: [github.com/Masashi-Ono0611/base-miniapp](https://github.com/Masashi-Ono0611/base-miniapp)
 
 ---
 
