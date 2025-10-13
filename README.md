@@ -30,12 +30,14 @@ DeFi for index-style portfolio investing on TON.
 - Working App: [bagel-finance-omniston.0xbagel.com](https://bagel-finance-omniston.0xbagel.com/)
 - More Details: [linktr.ee/bagel_fi_ton](https://linktr.ee/bagel_fi_ton)
 
-### **Opensource Orchestra** @ETHGlobal 2025 New Delhi / 1st Place of ENS Track
+### **Opensource Orchestra🎵** 1st Place of ENS Track
+@ETHGlobal 2025 New Delhi
 Where Ethereum musicians and community connect in a giving economy. 
 - Demo: [ethglobal.com/showcase/opensource-orchestra-y1egw](https://ethglobal.com/showcase/opensource-orchestra-y1egw)
 - GitHub: [Opensource Orchestra](https://github.com/grmkris/opensource-orchestra)
 
-### **TonFusion💎** : @ETHGlobal 2025 Unite Defi
+### **TonFusion💎** : 
+@ETHGlobal 2025 Unite Defi
 1inch's cross-chain swap extend Fusion+ to TON.
 - Demo: [ethglobal.com/showcase/tonfusion-rbs33](https://ethglobal.com/showcase/tonfusion-rbs33)
 - GitHub: [TonFusion](https://github.com/Tanguyvans/TonFusion/tree/main/)
