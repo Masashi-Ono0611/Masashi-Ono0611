@@ -4,9 +4,6 @@ Building a **Game & DeFi app on [TON Blockchain](https://ton.org)**
 🏆 Winner of **TON Bootcamp in Bangkok** | 🇯🇵 Japan
 
 ---
-## 
-
----
 
 ## Tech Stack  
 
