@@ -7,10 +7,12 @@ Building a **Game & DeFi app on [TON Blockchain](https://ton.org)**
 
 ## 🎙️ Interviews  
 
-- **Founder Livechat #3: Bagel Finance** by TON SSEA Hub *(English)*  
+- **Founder Livechat #3: Bagel Finance**
+  by TON SSEA Hub *(English)*  
   [https://x.com/i/broadcasts/1BdGYZkBDnMJX](https://x.com/i/broadcasts/1BdGYZkBDnMJX)
 
-- **What is Bagel Finance, the TON DeFi Mini App that won 1st place at the TON Society Bootcamp?** by web3Research *(Japanese)*  
+- **What is Bagel Finance, the TON DeFi Mini App that won 1st place at the TON Society Bootcamp?**
+  by web3Research *(Japanese)*  
   [https://web3researchjapan.com/p/bagel-finance](https://web3researchjapan.com/p/bagel-finance)
 
 ---
