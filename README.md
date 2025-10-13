@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Masa  
-Co-founder & CEO of [**Bagel Finance**](https://bagel-finance-omniston.0xbagel.com/) 🥯  
-Building a Game & DeFi app on [TON Blockchain](https://ton.org)  
+Co-founder & CEO of [**Bagel Finance**](https://bagel-finance-omniston.0xbagel.com/)  
+Building a Game & DeFi app on TON Blockchain
 Winner of TON Bootcamp in Bangkok 🏆 | from 🇯🇵
 
 ---
@@ -42,21 +42,21 @@ Winner of TON Bootcamp in Bangkok 🏆 | from 🇯🇵
 
 ## 🛠️ My Work & Portfolio  
 
-### 🥯 **Bagel Finance**  
+### **Bagel Finance** 🥯
 DeFi for index-style portfolio investing on TON.  
 - Working App: [bagel-finance-omniston.0xbagel.com](https://bagel-finance-omniston.0xbagel.com/)  
 - More Details: [linktr.ee/bagel_fi_ton](https://linktr.ee/bagel_fi_ton)
 
 ---
 
-### 🎵 **Opensource Orchestra** — *1st Place, ENS Track @ ETHGlobal 2025 New Delhi*  
+### **Opensource Orchestra** 🎵 — *1st Place, ENS Track @ ETHGlobal 2025 New Delhi*  
 A giving-economy platform connecting Ethereum musicians and communities.  
 - Demo: [ethglobal.com/showcase/opensource-orchestra-y1egw](https://ethglobal.com/showcase/opensource-orchestra-y1egw)  
 - GitHub: [github.com/grmkris/opensource-orchestra](https://github.com/grmkris/opensource-orchestra)
 
 ---
 
-### 💎 **TonFusion** — *@ETHGlobal 2025 Unite DeFi*  
+### **TonFusion** 💎 — *@ETHGlobal 2025 Unite DeFi*  
 Extending **1inch Fusion+ cross-chain swaps** to **TON Blockchain.**  
 - Demo: [ethglobal.com/showcase/tonfusion-rbs33](https://ethglobal.com/showcase/tonfusion-rbs33)  
 - GitHub: [github.com/Tanguyvans/TonFusion](https://github.com/Tanguyvans/TonFusion/tree/main/)
