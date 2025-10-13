@@ -1,43 +1,61 @@
-# 👋 Hi, I'm Masa
-Co-founder & CEO of [Bagel Finance](https://bagel-finance-omniston.0xbagel.com/) 🥯 | Building a Game & DeFi app on [TON Blockchain](https://ton.org).  🏆 Winner of TON Bootcamp in Bangkok | 🇯🇵
+# 👋 Hi, I'm Masa  
+Co-founder & CEO of [**Bagel Finance**](https://bagel-finance-omniston.0xbagel.com/) 🥯  
+Building a **Game & DeFi app on [TON Blockchain](https://ton.org)**  
+🏆 Winner of **TON Bootcamp in Bangkok** | 🇯🇵 Japan
+
+---
 
 ## 🚀 Tech Stack  
-### TON Blockchain Smart Contract Development
-- FunC (domain-specific language for TON contracts)
 
-### Frontend
-- Next.js + TypeScript
-- App Router
-- Tailwind CSS
+### 🧠 TON Blockchain Smart Contract Development
+- **FunC** — Domain-specific language for TON contracts
 
-### Backend
-- Prisma for database
-- Telegram API for bots and payments
-- CoinGecko API for cryptocurrency prices
+### 💻 Frontend
+- **Next.js** + **TypeScript**
+- **App Router**
+- **Tailwind CSS**
 
-### TON Blockchain Integration
-- `tonconnect/ui-react` for wallet interactions
-- `ton/ton`, `dedust/sdk` and `Omniston/sdk` for blockchain data retrieval
+### ⚙️ Backend
+- **Prisma** for database management  
+- **Telegram API** for bots and payments  
+- **CoinGecko API** for cryptocurrency price data  
 
-### Telegram Mini Apps
-- TMA-specific routing and development workflow
-- Mock system for simulating TMA behavior in local environment
+### 🔗 TON Blockchain Integration
+- `tonconnect/ui-react` for wallet interactions  
+- `ton/ton`, `dedust/sdk`, and `Omniston/sdk` for blockchain data retrieval  
 
-## 🛠️ My Work & Portfolio
-Here are some of the notable projects I'm involved in or have created:
-### **Bagel Finance🥯**: 
-DeFi for index-style portfolio investing on TON.
-- Working App: [bagel-finance-omniston.0xbagel.com](https://bagel-finance-omniston.0xbagel.com/)
+### 💬 Telegram Mini Apps
+- TMA-specific routing & development workflow  
+- Mock system for simulating TMA behavior in a local environment  
+
+---
+
+## 🛠️ My Work & Portfolio  
+
+### 🥯 **Bagel Finance**  
+DeFi for index-style portfolio investing on TON.  
+- Working App: [bagel-finance-omniston.0xbagel.com](https://bagel-finance-omniston.0xbagel.com/)  
 - More Details: [linktr.ee/bagel_fi_ton](https://linktr.ee/bagel_fi_ton)
 
-### **Opensource Orchestra🎵** 1st Place of ENS Track
-@ETHGlobal 2025 New Delhi
-Where Ethereum musicians and community connect in a giving economy. 
-- Demo: [ethglobal.com/showcase/opensource-orchestra-y1egw](https://ethglobal.com/showcase/opensource-orchestra-y1egw)
-- GitHub: [Opensource Orchestra](https://github.com/grmkris/opensource-orchestra)
+---
 
-### **TonFusion💎** : 
-@ETHGlobal 2025 Unite Defi
-1inch's cross-chain swap extend Fusion+ to TON.
-- Demo: [ethglobal.com/showcase/tonfusion-rbs33](https://ethglobal.com/showcase/tonfusion-rbs33)
-- GitHub: [TonFusion](https://github.com/Tanguyvans/TonFusion/tree/main/)
+### 🎵 **Opensource Orchestra** — *1st Place, ENS Track @ ETHGlobal 2025 New Delhi*  
+A giving-economy platform connecting Ethereum musicians and communities.  
+- Demo: [ethglobal.com/showcase/opensource-orchestra-y1egw](https://ethglobal.com/showcase/opensource-orchestra-y1egw)  
+- GitHub: [github.com/grmkris/opensource-orchestra](https://github.com/grmkris/opensource-orchestra)
+
+---
+
+### 💎 **TonFusion** — *ETHGlobal 2025 Unite DeFi*  
+Extending **1inch Fusion+ cross-chain swaps** to **TON Blockchain.**  
+- Demo: [ethglobal.com/showcase/tonfusion-rbs33](https://ethglobal.com/showcase/tonfusion-rbs33)  
+- GitHub: [github.com/Tanguyvans/TonFusion](https://github.com/Tanguyvans/TonFusion/tree/main/)
+
+
+---
+
+📫 **Let’s connect!**  
+Always open for collaboration
+
+📫 **Let’s connect!**  
+Always open for collaboration in **DeFi, TON, and open-source innovation.**
