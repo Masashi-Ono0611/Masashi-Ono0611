@@ -64,4 +64,5 @@ Extending **1inch Fusion+ cross-chain swaps** to **TON Blockchain.**
 ---
 
 **Let’s connect!**  
-Always open for collaboration in **DeFi, TON, and open-source innovation.**
+Always open for collaboration and open-source innovation.  
+[Follow & contact me on X (Twitter)](https://x.com/Masashi_Ono0611/)
