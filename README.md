@@ -1,11 +1,22 @@
 # 👋 Hi, I'm Masa  
 Co-founder & CEO of [**Bagel Finance**](https://bagel-finance-omniston.0xbagel.com/) 🥯  
 Building a **Game & DeFi app on [TON Blockchain](https://ton.org)**  
-🏆 Winner of **TON Bootcamp in Bangkok** | 🇯🇵 Japan
+🏆 Winner of **TON Bootcamp in Bangkok** | from 🇯🇵
 
 ---
 
-## Tech Stack  
+## 🎙️ Interviews  
+
+- **Founder Livechat #3: Bagel Finance** by TON SSEA Hub *(English)*  
+  [https://x.com/i/broadcasts/1BdGYZkBDnMJX](https://x.com/i/broadcasts/1BdGYZkBDnMJX)
+
+- **TON Society主催のブートキャンプで1位を獲得したTONのDeFi Mini App「Bagel Finance」って何？**  
+  by web3Research *(Japanese)*  
+  [https://web3researchjapan.com/p/bagel-finance](https://web3researchjapan.com/p/bagel-finance)
+
+---
+
+## 🚀 Tech Stack  
 
 ### TON Blockchain Smart Contract Development
 - **FunC** — Domain-specific language for TON contracts
@@ -30,7 +41,7 @@ Building a **Game & DeFi app on [TON Blockchain](https://ton.org)**
 
 ---
 
-##  My Work & Portfolio  
+## 🛠️ My Work & Portfolio  
 
 ### 🥯 **Bagel Finance**  
 DeFi for index-style portfolio investing on TON.  
