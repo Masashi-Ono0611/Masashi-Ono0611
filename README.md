@@ -50,6 +50,7 @@ DeFi for index-style portfolio investing on TON.
 
 ### **Opensource Orchestra**  — *1st Place, ENS Track @ ETHGlobal 2025 New Delhi*  
 A giving-economy platform connecting Ethereum musicians and communities.  
+- App: [opensource-orchestra-web.vercel.app](https://opensource-orchestra-web.vercel.app/)
 - Demo: [ethglobal.com/showcase/opensource-orchestra-y1egw](https://ethglobal.com/showcase/opensource-orchestra-y1egw)  
 - GitHub: [github.com/grmkris/opensource-orchestra](https://github.com/grmkris/opensource-orchestra)
 
