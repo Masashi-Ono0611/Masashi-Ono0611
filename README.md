@@ -62,9 +62,17 @@ Extending 1inch Fusion+ cross-chain swaps to TON Blockchain.
 
 ---
 
+### **Toke Of App**  — *@ETHOnline 2025*  
+PayFi Payroll & Gifting with Multi-Wallet Distribution, Multi-Strategy Allocation, and Recurring Automation.
+- App: [nexus-widgets-demo.vercel.app](https://nexus-widgets-demo.vercel.app/)
+- Demo: [ethglobal.com/showcase/tokofapp-dri79](https://ethglobal.com/showcase/tokofapp-dri79)  
+- GitHub: [github.com/Masashi-Ono0611/nexus-widgets-demo](https://github.com/Masashi-Ono0611/nexus-widgets-demo)
+
+---
+
 ### **Bonsai to Earn** — *@Base Japan Vibe Coding Mini Hackathon* 
 Enjoy Bonsai to Earn — a Base/Farcaster mini app.  
-- Demo: [farcaster.xyz/miniapps/0nOSS2sYLVUg/base-miniapp-001](https://farcaster.xyz/miniapps/0nOSS2sYLVUg/base-miniapp-001)  
+- App: [farcaster.xyz/miniapps/0nOSS2sYLVUg/base-miniapp-001](https://farcaster.xyz/miniapps/0nOSS2sYLVUg/base-miniapp-001)  
 - GitHub: [github.com/Masashi-Ono0611/base-miniapp](https://github.com/Masashi-Ono0611/base-miniapp)
 
 ---
