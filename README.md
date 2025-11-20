@@ -31,7 +31,7 @@ Building a Game & DeFi app on TON Blockchain | Winner of TON Bootcamp in Bangkok
 
 ### TON Blockchain Integration
 - `tonconnect/ui-react` for wallet interactions  
-- `ton/ton`, `dedust/sdk`, and `Omniston/sdk` for blockchain data retrieval  
+- `ton/ton` and `Omniston/sdk` for blockchain data retrieval  
 
 ### Telegram Mini Apps
 - TMA-specific routing & development workflow  
@@ -43,7 +43,7 @@ Building a Game & DeFi app on TON Blockchain | Winner of TON Bootcamp in Bangkok
 
 ### **Bagel Finance** 
 DeFi for index-style portfolio investing on TON.  
-- Working App: [bagel-finance-omniston.0xbagel.com](https://bagel-finance-omniston.0xbagel.com/)  
+- App: [bagel-finance-omniston.0xbagel.com](https://bagel-finance-omniston.0xbagel.com/)  
 - More Details: [linktr.ee/bagel_fi_ton](https://linktr.ee/bagel_fi_ton)
 
 ---
