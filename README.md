@@ -30,8 +30,11 @@ Building a Game & DeFi app on TON Blockchain | Winner of TON Bootcamp in Bangkok
 - **CoinGecko API** for cryptocurrency price data  
 
 ### TON Blockchain Integration
-- `tonconnect/ui-react` for wallet interactions  
-- `ton/ton` and `Omniston/sdk` for blockchain data retrieval  
+- `@tonconnect/ui-react` for TON wallet connection and transaction sending
+- `@ston-fi/omniston-sdk-react` (`Omniston`, `OmnistonProvider`) for RFQ quotes and transaction building
+- Custom TON payload handling:
+  - Query ID management for TON messages
+  - Multi-message transaction building and payload processing
 
 ### Telegram Mini Apps
 - TMA-specific routing & development workflow  
