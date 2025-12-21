@@ -74,6 +74,13 @@ PayFi Payroll & Gifting with Multi-Wallet Distribution, Multi-Strategy Allocatio
 
 ---
 
+### **MagoHODL** — *@Base Japan Ogiri Hackathon* 
+A dApp that locks your crypto and passes it to future generations.
+- Base mini app: [https://base.app/post/0x0fa804e7680fc10564e0a78a69bb0f62ab639512](https://base.app/post/0x0fa804e7680fc10564e0a78a69bb0f62ab639512)  
+- GitHub: [github.com/Masashi-Ono0611/base-ogiri-hackathon](https://github.com/Masashi-Ono0611/base-ogiri-hackathon)
+
+---
+
 ### **Bonsai to Earn** — *@Base Japan Vibe Coding Mini Hackathon* 
 Enjoy Bonsai to Earn — a Base/Farcaster mini app.  
 - App: [farcaster.xyz/miniapps/0nOSS2sYLVUg/base-miniapp-001](https://farcaster.xyz/miniapps/0nOSS2sYLVUg/base-miniapp-001)  
