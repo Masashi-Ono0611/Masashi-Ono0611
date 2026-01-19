@@ -44,7 +44,7 @@ Building a Game & DeFi app on TON Blockchain | Winner of TON Bootcamp in Bangkok
 
 ## 🛠️ My Work & Portfolio  
 
-### **Bagel Finance** 
+### **Bagel Finance** — *1st Place @ TON Bootcamp in Bangkok*  
 DeFi for index-style portfolio investing on TON.  
 - App: [bagel-finance-omniston.0xbagel.com](https://bagel-finance-omniston.0xbagel.com/)  
 - More Details: [linktr.ee/bagel_fi_ton](https://linktr.ee/bagel_fi_ton)
