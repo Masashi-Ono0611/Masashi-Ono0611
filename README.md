@@ -59,6 +59,13 @@ A giving-economy platform connecting Ethereum musicians and communities.
 
 ---
 
+### **PHR Onchain**  — *3rd Place @ Tokyo Bowl Hackathon*  
+Bring Personal Health Record on-chain.
+- Demo: [drive.google.com](https://drive.google.com/file/d/1usx-1McJEa4wLCCan5y2f1FlXeSA6pYF/view?usp=sharing) 
+- GitHub: [github.com/Masashi-Ono0611/scoop-ai-hackathon](https://github.com/Masashi-Ono0611/scoop-ai-hackathon)
+
+---
+
 ### **TonFusion**  — *@ETHGlobal 2025 Unite DeFi*  
 Extending 1inch Fusion+ cross-chain swaps to TON Blockchain.  
 - Demo: [ethglobal.com/showcase/tonfusion-rbs33](https://ethglobal.com/showcase/tonfusion-rbs33)  
