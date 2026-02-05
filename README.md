@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Masa
 
 **Full-Stack Web Engineer & Smart Contract Developer**  
-Founder & CEO of Bagel Finance 🥯  
-Multi-time global hackathon winner 🏆 
+🥯 Founder & CEO of Bagel Finance  
+🏆 Multi-time Global Hackathon Winner
 
 ---
 
@@ -21,10 +21,10 @@ Multi-time global hackathon winner 🏆
 
 ## 🎙️ Interviews
 
-| Interview | Platform | Language | Link |
-|-----------|----------|----------|------|
-| **Founder Livechat #3: Bagel Finance** | TON SSEA Hub | English | [🎧 Watch](https://x.com/i/broadcasts/1BdGYZkBDnMJX) |
-| **What is Bagel Finance, which won 1st place at TON Bootcamp?** | web3Research | Japanese | [📖 Read](https://web3researchjapan.com/p/bagel-finance) |
+| Title | Host | Language | Link |
+|-------|------|----------|------|
+| **Founder Livechat #3: Bagel Finance** | TON SSEA Hub | English | [📺 Watch](https://x.com/i/broadcasts/1BdGYZkBDnMJX) |
+| **What is Bagel Finance, which won 1st place at TON Bootcamp?** | web3Research | Japanese | [📺 Watch](https://web3researchjapan.com/p/bagel-finance) |
 
 ---
 
@@ -32,32 +32,24 @@ Multi-time global hackathon winner 🏆
 
 ### 🖥️ Frontend
 
-- Next.js (App Router)
-- TypeScript
-- React Server Components
-- Tailwind CSS
-- Chakra UI
-- Telegram Mini Apps development
-  - Browser-based local mock system
-  - Telegram WebApp SDK integration
-- Base Mini Apps development
-  - OnchainKit integration
-  - Base mini app SDK
-- Wallet integrations
-  - TON Connect
-  - EVM wallets (MetaMask, WalletConnect)
+- **Core Framework**
+  - Next.js (App Router) • TypeScript • React Server Components
+- **Styling**
+  - Tailwind CSS • Chakra UI
+- **Mini Apps Development**
+  - Telegram: WebApp SDK integration • Browser-based local mock system
+  - Base: OnchainKit integration • Base mini app SDK
+- **Wallet Integrations**
+  - TON Connect • EVM wallets (MetaMask, WalletConnect)
 
 ---
 
 ### ⚙️ Backend & API
 
-- Next.js API Routes (BFF architecture)
-- Prisma ORM
-- MySQL
-- REST API design
-- External integrations
-  - Telegram Bot API (messages, payments, stars)
-  - CoinGecko API (pricing & historical data)
+- **API Architecture**
+  - Next.js API Routes (BFF) • Prisma ORM • MySQL • REST API design
+- **External Integrations**
+  - Telegram Bot API (messages, payments, stars) • CoinGecko API (pricing & historical data)
 
 ---
 
@@ -65,17 +57,12 @@ Multi-time global hackathon winner 🏆
 
 **Production-grade AWS architecture**
 
-- EC2 (multi-instance, auto scaling ready)
-- Application Load Balancer (ALB)
-- RDS (MySQL) — staging & production
-- Lambda — scheduled jobs & automation
-- EventBridge — cron execution
-- S3 — assets, metadata, maintenance pages
-- Route53 — domain & subdomain management
-- CI/CD
-  - GitHub Actions
-  - Branch-based deployment (`dev` → staging, `main` → production)
-  - Zero-downtime deploy with ALB target groups
+- **Core Infrastructure**
+  - EC2 (multi-instance, auto scaling) • Application Load Balancer • RDS (MySQL)
+- **Services**
+  - Lambda (scheduled jobs) • EventBridge (cron) • S3 (assets, metadata) • Route53 (domains)
+- **CI/CD**
+  - GitHub Actions • Branch-based deployment (`dev` → staging, `main` → production) • Zero-downtime deploy
 
 
 ---
@@ -91,54 +78,41 @@ Multi-time global hackathon winner 🏆
 
 #### EVM
 
-- Solidity smart contracts
-  - Foundry & Hardhat development frameworks
-- PayFi & DeFi Automation
-  - Multi-wallet distribution & multi-strategy allocation
-  - AAVE, Morpho Vault, Uniswap V2 integrations
-  - Gelato automation for recurring payments
-  - Cross-chain bridge via Nexus Widgets
-- 1inch Fusion+ extensions to TON Blockchain
+- **Smart Contract Development**
+  - Solidity • Foundry & Hardhat development frameworks
+- **PayFi & DeFi Automation**
+  - Multi-wallet distribution • Multi-strategy allocation • AAVE, Morpho Vault, Uniswap V2 integrations
+  - Gelato automation • Cross-chain bridge via Nexus Widgets
+- **Cross-Chain Extensions**
+  - 1inch Fusion+ extensions to TON Blockchain
   - Hash Time-Locked Contracts (HTLC) for cross-chain atomic swaps
-  - Timelock + hashlock-based token locking mechanisms
-  - Front-running resistance via commit-reveal claim flow
+  - Front-running resistance via commit-reveal
 
 #### TON
 
-- FunC smart contracts
-  - Two-layer vault architecture (Escrow & Main Vault)
-  - Index token minting & redemption system
+- **FunC Smart Contracts**
+  - Two-layer vault architecture • Index token minting & redemption
   - Hash time-locked contracts with secret verification
-- Jetton (Minter / Wallet)
-  - Multi-jetton basket reception & weighted calculations
-  - Off-chain transaction monitoring integration
-- Vault & index contracts
-  - Atomic rebalance mechanisms
-  - Multi-reserve lending strategies
-- TON payload & gas optimization
-  - Forward gas amount management for DEX integration
-- Omniston /DeDust / STON.fi integrations
-- Blueprint-based build / test / deploy
+- **Jetton Development**
+  - Multi-jetton basket reception • Weighted calculations • Off-chain monitoring
+- **Infrastructure**
+  - TON payload & gas optimization • Omniston /DeDust / STON.fi integrations • Blueprint build/test/deploy
 
 #### SUI
 
-- Move smart contracts
-- On-chain vaults with:
-  - Atomic rebalance
-  - Multi-reserve lending strategies
-  - Share-token based accounting
-- Verified mainnet deployments
+- **Move Smart Contracts**
+  - On-chain vaults with atomic rebalance • Multi-reserve lending strategies • Share-token accounting
+- **Deployment**
+  - Verified mainnet deployments
 
 #### Bitcoin
 
-- Bitcoin Script implementation
-  - Legacy transactions (P2PKH, P2SH, multisig)
-  - Segwit v0 (P2WPKH, P2WSH)
-  - Taproot (P2TR, Schnorr signatures, TapTrees)
-  - Signature hash evolution & flags
+- **Bitcoin Script Implementation**
+  - Legacy transactions (P2PKH, P2SH, multisig) • Segwit v0 (P2WPKH, P2WSH)
+  - Taproot (P2TR, Schnorr signatures, TapTrees) • Signature hash evolution & flags
   - Transaction & script-level timelocks
-- UTXO management & raw transaction building
-- Bitcoin Core integration (TestShell, regtest)
+- **Development Tools**
+  - UTXO management & raw transaction building • Bitcoin Core integration (TestShell, regtest)
 
 ---
 
