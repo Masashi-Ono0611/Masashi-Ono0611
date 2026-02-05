@@ -4,9 +4,6 @@ Founder & CEO of **Bagel Finance** 🥯
 **Full-Stack Web Engineer × Multi-Chain Smart Contract Developer**  
 Building production-grade Web2/Web3 products | from 🇯🇵
 
-> I build **real, scalable products** — from frontend UX and backend infra  
-> to on-chain smart contracts across **TON / EVM / SUI**.
-
 ---
 
 ## 🧠 What I Do
