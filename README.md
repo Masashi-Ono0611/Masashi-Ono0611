@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Masa
 
-Founder & CEO of **Bagel Finance** 🥯  
+Founder & CEO of Bagel Finance 🥯  
 **Full-Stack Web Engineer × Multi-Chain Smart Contract Developer** | from 🇯🇵
 
 ---
@@ -11,8 +11,8 @@ Founder & CEO of **Bagel Finance** 🥯
   - Production-ready frontend & backend
   - Cloud infrastructure, CI/CD, and database design
 - **Web3 / DeFi Engineering**
-  - Multi-chain smart contract development (TON / EVM / SUI)
-  - DeFi protocol design, vaults, indexes, and automation
+  - Multi-chain smart contract development (TON / EVM / SUI / Bitcoin)
+  - DeFi protocol design, vault development, and automation
 - **Shipping-focused Founder**
   - Hackathon winner & live products with real users
 
@@ -37,9 +37,12 @@ Founder & CEO of **Bagel Finance** 🥯
 - React Server Components
 - Tailwind CSS
 - Chakra UI
-- Telegram Mini Apps (TMA)
+- Telegram Mini Apps development
   - Browser-based local mock system
   - Telegram WebApp SDK integration
+- Base Mini Apps development
+  - OnchainKit integration
+  - Base mini app SDK
 - Wallet integrations
   - TON Connect
   - EVM wallets (MetaMask, WalletConnect)
@@ -73,8 +76,6 @@ Founder & CEO of **Bagel Finance** 🥯
   - GitHub Actions
   - Branch-based deployment (`dev` → staging, `main` → production)
   - Zero-downtime deploy with ALB target groups
-- Maintenance mode
-  - ALB rule switching for DB migrations
 
 
 ---
@@ -86,6 +87,7 @@ Founder & CEO of **Bagel Finance** 🥯
 - TON (FunC)
 - EVM (Solidity)
 - SUI (Move)
+- Bitcoin (Bitcoin Script)
 
 #### TON
 
@@ -93,14 +95,22 @@ Founder & CEO of **Bagel Finance** 🥯
 - Jetton (Minter / Wallet)
 - Vault & index contracts
 - TON payload & gas optimization
-- DeDust / STON.fi integrations
+- Omniston /DeDust / STON.fi integrations
 - Blueprint-based build / test / deploy
 
 #### EVM
 
 - Solidity smart contracts
-- DeFi vaults, automation, and PayFi
-- 1inch Fusion+ extensions
+  - Foundry & Hardhat development frameworks
+- PayFi & DeFi Automation
+  - Multi-wallet distribution & multi-strategy allocation
+  - AAVE, Morpho Vault, Uniswap V2 integrations
+  - Gelato automation for recurring payments
+  - Cross-chain bridge via Nexus Widgets
+- 1inch Fusion+ extensions to TON Blockchain
+  - Hash Time-Locked Contracts (HTLC) for cross-chain atomic swaps
+  - Timelock + hashlock-based token locking mechanisms
+  - Front-running resistance via commit-reveal claim flow
 
 #### SUI
 
@@ -110,6 +120,17 @@ Founder & CEO of **Bagel Finance** 🥯
   - Multi-reserve lending strategies
   - Share-token based accounting
 - Verified mainnet deployments
+
+#### Bitcoin
+
+- Bitcoin Script implementation
+  - Legacy transactions (P2PKH, P2SH, multisig)
+  - Segwit v0 (P2WPKH, P2WSH)
+  - Taproot (P2TR, Schnorr signatures, TapTrees)
+  - Signature hash evolution & flags
+  - Transaction & script-level timelocks
+- UTXO management & raw transaction building
+- Bitcoin Core integration (TestShell, regtest)
 
 ---
 
