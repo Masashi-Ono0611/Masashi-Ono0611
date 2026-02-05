@@ -125,8 +125,8 @@
 | **PHR Onchain** | 🥉 3rd Place @ Tokyo Bowl Hackathon | Bring Personal Health Record on-chain | [Demo](https://drive.google.com/file/d/1usx-1McJEa4wLCCan5y2f1FlXeSA6pYF/view?usp=sharing) • [GitHub](https://github.com/Masashi-Ono0611/scoop-ai-hackathon) |
 | **TonFusion** | 🚀 @ETHGlobal 2025 Unite DeFi | Extending 1inch Fusion+ cross-chain swaps to TON Blockchain | [Demo](https://ethglobal.com/showcase/tonfusion-rbs33) • [GitHub](https://github.com/Tanguyvans/TonFusion/tree/main/) |
 | **Toke Of App** | 🚀 @ETHOnline 2025 | PayFi Payroll & Gifting with Multi-Wallet Distribution and Automation | [App](https://nexus-widgets-demo.vercel.app/) • [Demo](https://ethglobal.com/showcase/tokofapp-dri79) • [GitHub](https://github.com/Masashi-Ono0611/nexus-widgets-demo) |
-| **MagoHODL** | 🚀 @Base Japan Ogiri Hackathon | dApp that locks crypto and passes to future generations | [Base Mini App](https://base.app/post/0x0fa804e7680fc10564e0a78a69bb0f62ab639512) • [GitHub](https://github.com/Masashi-Ono0611/base-ogiri-hackathon) |
-| **Bonsai to Earn** | 🚀 @Base Japan Vibe Coding Mini Hackathon | Bonsai to Earn — a Base/Farcaster mini app | [App](https://farcaster.xyz/miniapps/0nOSS2sYLVUg/base-miniapp-001) • [GitHub](https://github.com/Masashi-Ono0611/base-miniapp) |
+| **MagoHODL** | 🚀 @Base Japan Ogiri Hackathon | dApp that locks crypto and passes to future generations | [GitHub](https://github.com/Masashi-Ono0611/base-ogiri-hackathon) |
+| **Bonsai to Earn** | 🚀 @Base Japan Vibe Coding Mini Hackathon | Bonsai to Earn — a Base/Farcaster mini app | [GitHub](https://github.com/Masashi-Ono0611/base-miniapp) |
 
 ---
 
