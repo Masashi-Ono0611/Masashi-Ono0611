@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Masa
 
-Founder & CEO of Bagel Finance 🥯  
-**Full-Stack Web Engineer × Multi-Chain Smart Contract Developer** | from 🇯🇵
+**Full-Stack Web Engineer × Multi-Chain Smart Contract Developer**  
+Founder & CEO of Bagel Finance 🥯 | from 🇯🇵
 
 ---
 
