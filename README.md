@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Masa
 
-**Full-Stack Web Engineer × Multi-Chain Smart Contract Developer**  
-Founder & CEO of Bagel Finance 🥯 | from 🇯🇵
+**Full-Stack Web Engineer & Smart Contract Developer**  
+Founder & CEO of Bagel Finance 🥯  
+Multi-time global hackathon winner 🏆 
 
 ---
 
@@ -14,17 +15,16 @@ Founder & CEO of Bagel Finance 🥯 | from 🇯🇵
   - Multi-chain smart contract development (EVM / TON / SUI / Bitcoin)
   - DeFi protocol design, vault development, and automation
 - **Shipping-focused Founder**
-  - Hackathon winner & live products with real users
+  - Multi-time hackathon winner with live products and real users
 
 ---
 
 ## 🎙️ Interviews
 
-- **Founder Livechat #3: Bagel Finance** by TON SSEA Hub *(English)*  
-  https://x.com/i/broadcasts/1BdGYZkBDnMJX
-
-- **What is Bagel Finance, which won 1st place at TON Bootcamp?** by web3Research *(Japanese)*  
-  https://web3researchjapan.com/p/bagel-finance
+| Interview | Platform | Language | Link |
+|-----------|----------|----------|------|
+| **Founder Livechat #3: Bagel Finance** | TON SSEA Hub | English | [🎧 Watch](https://x.com/i/broadcasts/1BdGYZkBDnMJX) |
+| **What is Bagel Finance, which won 1st place at TON Bootcamp?** | web3Research | Japanese | [📖 Read](https://web3researchjapan.com/p/bagel-finance) |
 
 ---
 
@@ -144,59 +144,15 @@ Founder & CEO of Bagel Finance 🥯 | from 🇯🇵
 
 ## 🛠️ My Work & Portfolio  
 
-### **Bagel Finance** — *1st Place @ TON Bootcamp in Bangkok*
-
-DeFi for index-style portfolio investing on TON.
-
-🔗 [App](https://bagel-finance-omniston.0xbagel.com/) | [Details](https://linktr.ee/bagel_fi_ton)
-
----
-
-### **Opensource Orchestra** — *1st Place, ENS Track @ ETHGlobal 2025 New Delhi*
-
-A giving-economy platform connecting Ethereum musicians and communities.
-
-🔗 [App](https://opensource-orchestra-web.vercel.app/) | [Demo](https://ethglobal.com/showcase/opensource-orchestra-y1egw) | [GitHub](https://github.com/grmkris/opensource-orchestra)
-
----
-
-### **PHR Onchain** — *3rd Place @ Tokyo Bowl Hackathon*
-
-Bring Personal Health Record on-chain.
-
-🔗 [Demo](https://drive.google.com/file/d/1usx-1McJEa4wLCCan5y2f1FlXeSA6pYF/view?usp=sharing) | [GitHub](https://github.com/Masashi-Ono0611/scoop-ai-hackathon)
-
----
-
-### **TonFusion** — *@ETHGlobal 2025 Unite DeFi*
-
-Extending 1inch Fusion+ cross-chain swaps to TON Blockchain.
-
-🔗 [Demo](https://ethglobal.com/showcase/tonfusion-rbs33) | [GitHub](https://github.com/Tanguyvans/TonFusion/tree/main/)
-
----
-
-### **Toke Of App** — *@ETHOnline 2025*
-
-PayFi Payroll & Gifting with Multi-Wallet Distribution, Multi-Strategy Allocation, and Recurring Automation.
-
-🔗 [App](https://nexus-widgets-demo.vercel.app/) | [Demo](https://ethglobal.com/showcase/tokofapp-dri79) | [GitHub](https://github.com/Masashi-Ono0611/nexus-widgets-demo)
-
----
-
-### **MagoHODL** — *@Base Japan Ogiri Hackathon*
-
-A dApp that locks your crypto and passes it to future generations.
-
-🔗 [Base Mini App](https://base.app/post/0x0fa804e7680fc10564e0a78a69bb0f62ab639512) | [GitHub](https://github.com/Masashi-Ono0611/base-ogiri-hackathon)
-
----
-
-### **Bonsai to Earn** — *@Base Japan Vibe Coding Mini Hackathon*
-
-Enjoy Bonsai to Earn — a Base/Farcaster mini app.
-
-🔗 [App](https://farcaster.xyz/miniapps/0nOSS2sYLVUg/base-miniapp-001) | [GitHub](https://github.com/Masashi-Ono0611/base-miniapp)
+| Project | Achievement | Description | Links |
+|---------|-------------|-------------|-------|
+| **Bagel Finance** | 🥇 1st Place @ TON Bootcamp Bangkok | DeFi for index-style portfolio investing on TON | [App](https://bagel-finance-omniston.0xbagel.com/) • [Details](https://linktr.ee/bagel_fi_ton) |
+| **Opensource Orchestra** | 🥇 1st Place, ENS Track @ ETHGlobal 2025 New Delhi | Giving-economy platform connecting Ethereum musicians and communities | [App](https://opensource-orchestra-web.vercel.app/) • [Demo](https://ethglobal.com/showcase/opensource-orchestra-y1egw) • [GitHub](https://github.com/grmkris/opensource-orchestra) |
+| **PHR Onchain** | 🥉 3rd Place @ Tokyo Bowl Hackathon | Bring Personal Health Record on-chain | [Demo](https://drive.google.com/file/d/1usx-1McJEa4wLCCan5y2f1FlXeSA6pYF/view?usp=sharing) • [GitHub](https://github.com/Masashi-Ono0611/scoop-ai-hackathon) |
+| **TonFusion** | 🚀 @ETHGlobal 2025 Unite DeFi | Extending 1inch Fusion+ cross-chain swaps to TON Blockchain | [Demo](https://ethglobal.com/showcase/tonfusion-rbs33) • [GitHub](https://github.com/Tanguyvans/TonFusion/tree/main/) |
+| **Toke Of App** | 🚀 @ETHOnline 2025 | PayFi Payroll & Gifting with Multi-Wallet Distribution and Automation | [App](https://nexus-widgets-demo.vercel.app/) • [Demo](https://ethglobal.com/showcase/tokofapp-dri79) • [GitHub](https://github.com/Masashi-Ono0611/nexus-widgets-demo) |
+| **MagoHODL** | 🚀 @Base Japan Ogiri Hackathon | dApp that locks crypto and passes to future generations | [Base Mini App](https://base.app/post/0x0fa804e7680fc10564e0a78a69bb0f62ab639512) • [GitHub](https://github.com/Masashi-Ono0611/base-ogiri-hackathon) |
+| **Bonsai to Earn** | 🚀 @Base Japan Vibe Coding Mini Hackathon | Bonsai to Earn — a Base/Farcaster mini app | [App](https://farcaster.xyz/miniapps/0nOSS2sYLVUg/base-miniapp-001) • [GitHub](https://github.com/Masashi-Ono0611/base-miniapp) |
 
 ---
 
