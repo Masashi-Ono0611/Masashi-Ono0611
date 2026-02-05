@@ -1,44 +1,119 @@
-# 👋 Hi, I'm Masa  
-Founder & CEO of [**Bagel Finance**](https://bagel-finance-omniston.0xbagel.com/) 🥯  
-Building a Game & DeFi app on TON Blockchain | Winner of TON Bootcamp in Bangkok 🏆 | from 🇯🇵
+# 👋 Hi, I'm Masa
+
+Founder & CEO of **Bagel Finance** 🥯  
+**Full-Stack Web Engineer × Multi-Chain Smart Contract Developer**  
+Building production-grade Web2/Web3 products | from 🇯🇵
+
+> I build **real, scalable products** — from frontend UX and backend infra  
+> to on-chain smart contracts across **TON / EVM / SUI**.
 
 ---
 
-## 🎙️ Interviews  
+## 🧠 What I Do
+
+- **Full-stack Web Development**
+  - Production-ready frontend & backend
+  - Cloud infrastructure, CI/CD, and database design
+- **Web3 / DeFi Engineering**
+  - Multi-chain smart contract development (TON / EVM / SUI)
+  - DeFi protocol design, vaults, indexes, and automation
+- **Shipping-focused Founder**
+  - Hackathon winner & live products with real users
+
+---
+
+## 🎙️ Interviews
 
 - **Founder Livechat #3: Bagel Finance** by TON SSEA Hub *(English)*  
-  [https://x.com/i/broadcasts/1BdGYZkBDnMJX](https://x.com/i/broadcasts/1BdGYZkBDnMJX)
+  https://x.com/i/broadcasts/1BdGYZkBDnMJX
 
 - **What is Bagel Finance, which won 1st place at TON Bootcamp?** by web3Research *(Japanese)*  
-  [https://web3researchjapan.com/p/bagel-finance](https://web3researchjapan.com/p/bagel-finance)
+  https://web3researchjapan.com/p/bagel-finance
 
 ---
 
-## 🚀 Tech Stack  
+## 🧩 Tech Stack
 
-### TON Blockchain Smart Contract Development
-- **FunC** — Domain-specific language for TON contracts
+### 🖥️ Frontend
 
-### Frontend
-- **Next.js** + **TypeScript**
-- **App Router**
-- **Tailwind CSS**
+- Next.js (App Router)
+- TypeScript
+- React Server Components
+- Tailwind CSS
+- Chakra UI
+- Telegram Mini Apps (TMA)
+  - Browser-based local mock system
+  - Telegram WebApp SDK integration
+- Wallet integrations
+  - TON Connect
+  - EVM wallets (MetaMask, WalletConnect)
 
-### Backend
-- **Prisma** for database management  
-- **Telegram API** for bots and payments  
-- **CoinGecko API** for cryptocurrency price data  
+---
 
-### TON Blockchain Integration
-- `@tonconnect/ui-react` for TON wallet connection and transaction sending
-- `@ston-fi/omniston-sdk-react` (`Omniston`, `OmnistonProvider`) for RFQ quotes and transaction building
-- Custom TON payload handling:
-  - Query ID management for TON messages
-  - Multi-message transaction building and payload processing
+### ⚙️ Backend & API
 
-### Telegram Mini Apps
-- TMA-specific routing & development workflow  
-- Mock system for simulating TMA behavior in a local environment  
+- Next.js API Routes (BFF architecture)
+- Prisma ORM
+- MySQL
+- REST API design
+- External integrations
+  - Telegram Bot API (messages, payments, stars)
+  - CoinGecko API (pricing & historical data)
+
+---
+
+### ☁️ Infrastructure & DevOps (AWS)
+
+**Production-grade AWS architecture**
+
+- EC2 (multi-instance, auto scaling ready)
+- Application Load Balancer (ALB)
+- RDS (MySQL) — staging & production
+- Lambda — scheduled jobs & automation
+- EventBridge — cron execution
+- S3 — assets, metadata, maintenance pages
+- Route53 — domain & subdomain management
+- CI/CD
+  - GitHub Actions
+  - Branch-based deployment (`dev` → staging, `main` → production)
+  - Zero-downtime deploy with ALB target groups
+- Maintenance mode
+  - ALB rule switching for DB migrations
+
+
+---
+
+### 🔗 Blockchain & Smart Contracts
+
+#### Supported Chains
+
+- TON (FunC)
+- EVM (Solidity)
+- SUI (Move)
+
+#### TON
+
+- FunC smart contracts
+- Jetton (Minter / Wallet)
+- Vault & index contracts
+- TON payload & gas optimization
+- DeDust / STON.fi integrations
+- Blueprint-based build / test / deploy
+
+#### EVM
+
+- Solidity smart contracts
+- DeFi vaults, automation, and PayFi
+- 1inch Fusion+ extensions
+
+#### SUI
+
+- Move smart contracts
+- On-chain vaults with:
+  - Atomic rebalance
+  - Multi-reserve lending strategies
+  - Share-token based accounting
+- Verified mainnet deployments
 
 ---
 
