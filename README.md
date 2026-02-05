@@ -11,7 +11,7 @@ Founder & CEO of Bagel Finance 🥯 | from 🇯🇵
   - Production-ready frontend & backend
   - Cloud infrastructure, CI/CD, and database design
 - **Web3 / DeFi Engineering**
-  - Multi-chain smart contract development (TON / EVM / SUI / Bitcoin)
+  - Multi-chain smart contract development (EVM / TON / SUI / Bitcoin)
   - DeFi protocol design, vault development, and automation
 - **Shipping-focused Founder**
   - Hackathon winner & live products with real users
@@ -84,19 +84,10 @@ Founder & CEO of Bagel Finance 🥯 | from 🇯🇵
 
 #### Supported Chains
 
-- TON (FunC)
 - EVM (Solidity)
+- TON (FunC)
 - SUI (Move)
 - Bitcoin (Bitcoin Script)
-
-#### TON
-
-- FunC smart contracts
-- Jetton (Minter / Wallet)
-- Vault & index contracts
-- TON payload & gas optimization
-- Omniston /DeDust / STON.fi integrations
-- Blueprint-based build / test / deploy
 
 #### EVM
 
@@ -111,6 +102,23 @@ Founder & CEO of Bagel Finance 🥯 | from 🇯🇵
   - Hash Time-Locked Contracts (HTLC) for cross-chain atomic swaps
   - Timelock + hashlock-based token locking mechanisms
   - Front-running resistance via commit-reveal claim flow
+
+#### TON
+
+- FunC smart contracts
+  - Two-layer vault architecture (Escrow & Main Vault)
+  - Index token minting & redemption system
+  - Hash time-locked contracts with secret verification
+- Jetton (Minter / Wallet)
+  - Multi-jetton basket reception & weighted calculations
+  - Off-chain transaction monitoring integration
+- Vault & index contracts
+  - Atomic rebalance mechanisms
+  - Multi-reserve lending strategies
+- TON payload & gas optimization
+  - Forward gas amount management for DEX integration
+- Omniston /DeDust / STON.fi integrations
+- Blueprint-based build / test / deploy
 
 #### SUI
 
