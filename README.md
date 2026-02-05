@@ -2,7 +2,8 @@
 
 **Full-Stack Web Engineer & Smart Contract Developer**  
 🥯 Founder & CEO of Bagel Finance  
-🏆 Multi-time Global Hackathon Winner
+🏆 Multi-time Global Hackathon Winner  
+🇯🇵 Since 2017 in Crypto | from Japan
 
 ---
 
