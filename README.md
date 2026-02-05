@@ -82,8 +82,9 @@
   - Solidity • Foundry & Hardhat development frameworks
 - **PayFi & DeFi Automation**
   - Multi-wallet distribution • Multi-strategy allocation • AAVE, Morpho Vault, Uniswap V2 integrations
-  - Gelato automation • Cross-chain bridge via Nexus Widgets
+  - Gelato automation integrations
 - **Cross-Chain Extensions**
+  - Cross-chain bridge via Nexus Widgets
   - 1inch Fusion+ extensions to TON Blockchain
   - Hash Time-Locked Contracts (HTLC) for cross-chain atomic swaps
   - Front-running resistance via commit-reveal
@@ -94,7 +95,7 @@
   - Two-layer vault architecture • Index token minting & redemption
   - Hash time-locked contracts with secret verification
 - **Jetton Development**
-  - Multi-jetton basket reception • Weighted calculations • Off-chain monitoring
+  - Multi-jetton basket reception • Off-chain monitoring with TON API
 - **Infrastructure**
   - TON payload & gas optimization • Omniston /DeDust / STON.fi integrations • Blueprint build/test/deploy
 
