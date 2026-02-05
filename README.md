@@ -11,7 +11,7 @@
 - **Full-stack Web Development**
   - Production-ready frontend & backend
   - Cloud infrastructure, CI/CD, and database design
-- **Web3 / DeFi Engineering**
+- **Blockchain / DeFi Engineering**
   - Multi-chain smart contract development (EVM / TON / SUI / Bitcoin)
   - DeFi protocol design, vault development, and automation
 - **Shipping-focused Founder**
