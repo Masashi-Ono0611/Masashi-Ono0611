@@ -118,7 +118,7 @@
 
 ---
 
-## 🛠️ My Work & Portfolio  
+## 🛠️ Portfolio & Achievements  
 
 | Project | Achievement | Description | Links |
 |---------|-------------|-------------|-------|
