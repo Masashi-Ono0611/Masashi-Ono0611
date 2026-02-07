@@ -14,7 +14,7 @@
   - Cloud infrastructure, CI/CD, and database design
 - **Blockchain / DeFi Engineering**
   - Multi-chain smart contract development (EVM / TON / SUI / Bitcoin)
-  - DeFi protocol design, vault development, and automation
+  - DeFi protocol design, vault development, and crypto payment automation
 - **Shipping-focused Founder**
   - Multi-time hackathon winner with live products and real users
 
