@@ -124,6 +124,7 @@
 |---------|-------------|-------------|-------|
 | **Bagel Finance** | 🥇 1st Place @ TON Bootcamp Bangkok | DeFi for index-style portfolio investing on TON | [App](https://bagel-finance-omniston.0xbagel.com/) • [Details](https://linktr.ee/bagel_fi_ton) |
 | **Opensource Orchestra** | 🥇 1st Place, ENS Track @ ETHGlobal 2025 New Delhi | Giving-economy platform connecting Ethereum musicians and communities | [App](https://opensource-orchestra-web.vercel.app/) • [Demo](https://ethglobal.com/showcase/opensource-orchestra-y1egw) • [GitHub](https://github.com/grmkris/opensource-orchestra) |
+| **Zen Scan** | 🥉 3rd Place @ TON x AWS Hackathon | Mindful Blockchain Security on TON | [GitHub](https://github.com/Masashi-Ono0611/zen-scan) |
 | **PHR Onchain** | 🥉 3rd Place @ Tokyo Bowl Hackathon | Bring Personal Health Record on-chain | [Demo](https://drive.google.com/file/d/1usx-1McJEa4wLCCan5y2f1FlXeSA6pYF/view?usp=sharing) • [GitHub](https://github.com/Masashi-Ono0611/scoop-ai-hackathon) |
 | **TonFusion** | 🚀 @ETHGlobal 2025 Unite DeFi | Extending 1inch Fusion+ cross-chain swaps to TON Blockchain | [Demo](https://ethglobal.com/showcase/tonfusion-rbs33) • [GitHub](https://github.com/Tanguyvans/TonFusion/tree/main/) |
 | **Toke Of App** | 🚀 @ETHOnline 2025 | PayFi Payroll & Gifting with Multi-Wallet Distribution and Automation |[Demo](https://ethglobal.com/showcase/tokofapp-dri79) • [GitHub](https://github.com/Masashi-Ono0611/nexus-widgets-demo) |
