@@ -20,15 +20,6 @@
 
 ---
 
-## 🎙️ Interviews
-
-| Title | Host | Language | Link |
-|-------|------|----------|------|
-| **Founder Livechat #3: Bagel Finance** | TON SSEA Hub | English | [📺 Watch](https://x.com/i/broadcasts/1BdGYZkBDnMJX) |
-| **What is Bagel Finance, which won 1st place at TON Bootcamp?** | web3Research | Japanese | [📺 Watch](https://web3researchjapan.com/p/bagel-finance) |
-
----
-
 ## 🧩 Tech Stack
 
 ### 🖥️ Frontend
