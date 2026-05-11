@@ -7,6 +7,23 @@
 
 ---
 
+## 🛠️ Portfolio & Achievements  
+
+| Project | Achievement | Description | Links |
+|---------|-------------|-------------|-------|
+| **Bagel Finance** | 🥇 1st Place @ TON Bootcamp Bangkok | DeFi for index-style portfolio investing on TON | [App](https://bagel-finance-omniston.0xbagel.com/) • [Details](https://linktr.ee/bagel_fi_ton) |
+| **Opensource Orchestra** | 🥇 1st Place, ENS Track @ ETHGlobal 2025 New Delhi | Giving-economy platform connecting Ethereum musicians and communities | [App](https://opensource-orchestra-web.vercel.app/) • [Demo](https://ethglobal.com/showcase/opensource-orchestra-y1egw) • [GitHub](https://github.com/grmkris/opensource-orchestra) |
+| **Jupiter Funds For Mike's Baby** | 🥇 1st Place, Jupiter Prize @ Clawathon Tokyo Edition | Two AI agents debate Jupiter yield moves; user vote settles onchain on Solana | [Demo](https://app.akindo.io/communities/janA9g18qU63eJvB/products/63ZnGOzxnh7PBME8) • [GitHub](https://github.com/Masashi-Ono0611/claw-vs-claude) |
+| **Zen Scan** | 🥉 3rd Place @ TON x AWS Hackathon | Mindful Blockchain Security on TON | [GitHub](https://github.com/Masashi-Ono0611/zen-scan) |
+| **PHR Onchain** | 🥉 3rd Place @ Tokyo Bowl Hackathon | Bring Personal Health Record on-chain | [Demo](https://drive.google.com/file/d/1usx-1McJEa4wLCCan5y2f1FlXeSA6pYF/view?usp=sharing) • [GitHub](https://github.com/Masashi-Ono0611/scoop-ai-hackathon) |
+| **Ghost Yield** | 🚀 @ETHGlobal HackMoney 2026 | Tokenize idle L2 compute, price via Uniswap v4, arbitrage via Yellow, settle in USDC. | [Demo](https://ethglobal.com/showcase/ghost-yield-fw3yc) • [GitHub](https://github.com/Masashi-Ono0611/hack-money-2026) |
+| **TonFusion** | 🚀 @ETHGlobal 2025 Unite DeFi | Extending 1inch Fusion+ cross-chain swaps to TON Blockchain | [Demo](https://ethglobal.com/showcase/tonfusion-rbs33) • [GitHub](https://github.com/Tanguyvans/TonFusion/tree/main/) |
+| **Toke Of App** | 🚀 @ETHOnline 2025 | PayFi Payroll & Gifting with Multi-Wallet Distribution and Automation | [Demo](https://ethglobal.com/showcase/tokofapp-dri79) • [GitHub](https://github.com/Masashi-Ono0611/nexus-widgets-demo) |
+| **MagoHODL** | 🚀 @Base Japan Ogiri Hackathon | dApp that locks crypto and passes to future generations | [GitHub](https://github.com/Masashi-Ono0611/base-ogiri-hackathon) |
+| **Bonsai to Earn** | 🚀 @Base Japan Vibe Coding Mini Hackathon | Bonsai to Earn — a Base/Farcaster mini app | [GitHub](https://github.com/Masashi-Ono0611/base-miniapp) |
+
+---
+
 ## 🧠 What I Do
 
 - **Full-stack Web Development**
@@ -56,19 +73,14 @@
 - **CI/CD**
   - GitHub Actions • Branch-based deployment (`dev` → staging, `main` → production) • Zero-downtime deploy
 
-
 ---
 
 ### 🔗 Blockchain & Smart Contracts
 
-#### Supported Chains
+Supported Chains: **EVM (Solidity)** • **TON (FunC)** • **SUI (Move)** • **Bitcoin Script**
 
-- EVM (Solidity)
-- TON (FunC)
-- SUI (Move)
-- Bitcoin (Bitcoin Script)
-
-#### EVM
+<details>
+<summary><b>EVM</b> — Solidity, Foundry/Hardhat, PayFi & DeFi automation, cross-chain</summary>
 
 - **Smart Contract Development**
   - Solidity • Foundry & Hardhat development frameworks
@@ -81,7 +93,10 @@
   - Hash Time-Locked Contracts (HTLC) for cross-chain atomic swaps
   - Front-running resistance via commit-reveal
 
-#### TON
+</details>
+
+<details>
+<summary><b>TON</b> — FunC contracts, Jetton, Blueprint, DEX integrations</summary>
 
 - **FunC Smart Contracts**
   - Two-layer vault architecture • Index token minting & redemption
@@ -89,16 +104,22 @@
 - **Jetton Development**
   - Multi-jetton basket reception • Off-chain monitoring with TON API
 - **Infrastructure**
-  - TON payload & gas optimization • Omniston /DeDust / STON.fi integrations • Blueprint build/test/deploy
+  - TON payload & gas optimization • Omniston / DeDust / STON.fi integrations • Blueprint build/test/deploy
 
-#### SUI
+</details>
+
+<details>
+<summary><b>SUI</b> — Move contracts, on-chain vaults, mainnet deployments</summary>
 
 - **Move Smart Contracts**
   - On-chain vaults with atomic rebalance • Multi-reserve lending strategies • Share-token accounting
 - **Deployment**
   - Verified mainnet deployments
 
-#### Bitcoin
+</details>
+
+<details>
+<summary><b>Bitcoin Script</b> — Legacy/Segwit/Taproot, UTXO, Bitcoin Core</summary>
 
 - **Bitcoin Script Implementation**
   - Legacy transactions (P2PKH, P2SH, multisig) • Segwit v0 (P2WPKH, P2WSH)
@@ -107,26 +128,11 @@
 - **Development Tools**
   - UTXO management & raw transaction building • Bitcoin Core integration (TestShell, regtest)
 
----
-
-## 🛠️ Portfolio & Achievements  
-
-| Project | Achievement | Description | Links |
-|---------|-------------|-------------|-------|
-| **Bagel Finance** | 🥇 1st Place @ TON Bootcamp Bangkok | DeFi for index-style portfolio investing on TON | [App](https://bagel-finance-omniston.0xbagel.com/) • [Details](https://linktr.ee/bagel_fi_ton) |
-| **Opensource Orchestra** | 🥇 1st Place, ENS Track @ ETHGlobal 2025 New Delhi | Giving-economy platform connecting Ethereum musicians and communities | [App](https://opensource-orchestra-web.vercel.app/) • [Demo](https://ethglobal.com/showcase/opensource-orchestra-y1egw) • [GitHub](https://github.com/grmkris/opensource-orchestra) |
-| **Jupiter Funds For Mike's Baby** | 🥇 1st Place, Jupiter Prize @ Clawathon Tokyo Edition | Two AI agents debate Jupiter yield moves; user vote settles onchain on Solana | [Demo](https://app.akindo.io/communities/janA9g18qU63eJvB/products/63ZnGOzxnh7PBME8) • [GitHub](https://github.com/Masashi-Ono0611/claw-vs-claude) |
-| **Zen Scan** | 🥉 3rd Place @ TON x AWS Hackathon | Mindful Blockchain Security on TON | [GitHub](https://github.com/Masashi-Ono0611/zen-scan) |
-| **PHR Onchain** | 🥉 3rd Place @ Tokyo Bowl Hackathon | Bring Personal Health Record on-chain | [Demo](https://drive.google.com/file/d/1usx-1McJEa4wLCCan5y2f1FlXeSA6pYF/view?usp=sharing) • [GitHub](https://github.com/Masashi-Ono0611/scoop-ai-hackathon) |
-| **Ghost Yield** | 🚀 @ETHGlobal HackMoney 2026 | Tokenize idle L2 compute, price via Uniswap v4, arbitrage via Yellow, settle in USDC. | [Demo](https://ethglobal.com/showcase/ghost-yield-fw3yc) • [GitHub](https://github.com/Masashi-Ono0611/hack-money-2026) |
-| **TonFusion** | 🚀 @ETHGlobal 2025 Unite DeFi | Extending 1inch Fusion+ cross-chain swaps to TON Blockchain | [Demo](https://ethglobal.com/showcase/tonfusion-rbs33) • [GitHub](https://github.com/Tanguyvans/TonFusion/tree/main/) |
-| **Toke Of App** | 🚀 @ETHOnline 2025 | PayFi Payroll & Gifting with Multi-Wallet Distribution and Automation |[Demo](https://ethglobal.com/showcase/tokofapp-dri79) • [GitHub](https://github.com/Masashi-Ono0611/nexus-widgets-demo) |
-| **MagoHODL** | 🚀 @Base Japan Ogiri Hackathon | dApp that locks crypto and passes to future generations | [GitHub](https://github.com/Masashi-Ono0611/base-ogiri-hackathon) |
-| **Bonsai to Earn** | 🚀 @Base Japan Vibe Coding Mini Hackathon | Bonsai to Earn — a Base/Farcaster mini app | [GitHub](https://github.com/Masashi-Ono0611/base-miniapp) |
+</details>
 
 ---
 
-## 🤝 Let’s Connect  
+## 🤝 Let's Connect  
 
 Always open for collaboration and open-source innovation.  
 [Follow & contact me on X (Twitter)](https://x.com/Masashi_Ono0611/)
