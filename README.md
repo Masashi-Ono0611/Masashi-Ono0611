@@ -21,6 +21,7 @@
 | **Toke Of App** | 🚀 @ETHOnline 2025 | PayFi Payroll & Gifting with Multi-Wallet Distribution and Automation | [Demo](https://ethglobal.com/showcase/tokofapp-dri79) • [GitHub](https://github.com/Masashi-Ono0611/nexus-widgets-demo) |
 | **MagoHODL** | 🚀 @Base Japan Ogiri Hackathon | dApp that locks crypto and passes to future generations | [GitHub](https://github.com/Masashi-Ono0611/base-ogiri-hackathon) |
 | **Bonsai to Earn** | 🚀 @Base Japan Vibe Coding Mini Hackathon | Bonsai to Earn — a Base/Farcaster mini app | [GitHub](https://github.com/Masashi-Ono0611/base-miniapp) |
+| **Hawk & Dove** | 🚀 @STON.fi Vibe Coding Hackathon Wave 1 | Moltbook-style Agents Debate & Swap | [GitHub](https://github.com/Masashi-Ono0611/stonfi-vibe-coding-hackathon-wave1) |
 
 ---
 
