@@ -103,38 +103,13 @@ Supported Chains: **EVM (Solidity)** • **TON (FunC)** • **SUI (Move)** • *
 ---
 
 ### 🖥️ Frontend
-
-- **Core Framework**
-  - Next.js (App Router) • TypeScript • React Server Components
-- **Styling**
-  - Tailwind CSS • Chakra UI
-- **Mini Apps Development**
-  - Telegram: WebApp SDK integration • Browser-based local mock system
-  - Base: OnchainKit integration • Base mini app SDK
-- **Wallet Integrations**
-  - TON Connect • EVM wallets (MetaMask, WalletConnect)
-
----
+Next.js • React • TypeScript • Tailwind CSS • GraphQL (Apollo)
 
 ### ⚙️ Backend & API
+Go • NestJS • Fastify • Hasura (GraphQL) • Supabase • Prisma • PostgreSQL • MySQL • Redis
 
-- **API Architecture**
-  - Next.js API Routes (BFF) • Prisma ORM • MySQL • REST API design
-- **External Integrations**
-  - Telegram Bot API (messages, payments, stars) • CoinGecko API (pricing & historical data)
-
----
-
-### ☁️ Infrastructure & DevOps (AWS)
-
-**Production-grade AWS architecture**
-
-- **Core Infrastructure**
-  - EC2 (multi-instance, auto scaling) • Application Load Balancer • RDS (MySQL)
-- **Services**
-  - Lambda (scheduled jobs) • EventBridge (cron) • S3 (assets, metadata) • Route53 (domains)
-- **CI/CD**
-  - GitHub Actions • Branch-based deployment (`dev` → staging, `main` → production) • Zero-downtime deploy
+### ☁️ Infrastructure & Cloud
+AWS • GCP • Azure • Docker • GitHub Actions CI/CD
 
 ---
 
