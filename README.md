@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Masa
 
-**Full-Stack Web Engineer & Smart Contract Developer**  
-🥯 Founder & CEO of Bagel Finance  
+**Full-Stack Builder & Multi-Chain Smart Contract Engineer**  
+🥯 Founder & Core builder of Bagel Finance  
 🏆 Multi-time Global Hackathon Winner  
-🇯🇵 Since 2017 in Crypto | from Japan
+⚡ Since 2017 in Crypto  
+🧠 Core Contributor to [gbrain](https://github.com/garrytan/gbrain), Y Combinator CEO Garry Tan's AI second brain
 
 ---
 
@@ -28,12 +29,12 @@
 
 ## 🧠 What I Do
 
-- **Full-stack Web Development**
-  - Production-ready frontend & backend
-  - Cloud infrastructure, CI/CD, and database design
 - **Blockchain / DeFi Engineering**
   - Multi-chain smart contract development (EVM / TON / SUI / Bitcoin)
   - DeFi protocol design, vault development, and crypto payment automation
+- **Full-stack Web Development**
+  - Production-ready frontend & backend
+  - Cloud infrastructure, CI/CD, and database design
 - **Shipping-focused Founder**
   - Multi-time hackathon winner with live products and real users
 
@@ -41,43 +42,10 @@
 
 ## 🧩 Tech Stack
 
-### 🖥️ Frontend
-
-- **Core Framework**
-  - Next.js (App Router) • TypeScript • React Server Components
-- **Styling**
-  - Tailwind CSS • Chakra UI
-- **Mini Apps Development**
-  - Telegram: WebApp SDK integration • Browser-based local mock system
-  - Base: OnchainKit integration • Base mini app SDK
-- **Wallet Integrations**
-  - TON Connect • EVM wallets (MetaMask, WalletConnect)
-
----
-
-### ⚙️ Backend & API
-
-- **API Architecture**
-  - Next.js API Routes (BFF) • Prisma ORM • MySQL • REST API design
-- **External Integrations**
-  - Telegram Bot API (messages, payments, stars) • CoinGecko API (pricing & historical data)
-
----
-
-### ☁️ Infrastructure & DevOps (AWS)
-
-**Production-grade AWS architecture**
-
-- **Core Infrastructure**
-  - EC2 (multi-instance, auto scaling) • Application Load Balancer • RDS (MySQL)
-- **Services**
-  - Lambda (scheduled jobs) • EventBridge (cron) • S3 (assets, metadata) • Route53 (domains)
-- **CI/CD**
-  - GitHub Actions • Branch-based deployment (`dev` → staging, `main` → production) • Zero-downtime deploy
-
----
-
 ### 🔗 Blockchain & Smart Contracts
+
+- **Multi-chain protocol & DeFi engineering** — cross-chain bridges, atomic swaps (HTLC), vault architectures, and PayFi automation
+- **Mainnet-deployed contracts** across hackathon-winning products with real users
 
 Supported Chains: **EVM (Solidity)** • **TON (FunC)** • **SUI (Move)** • **Bitcoin Script**
 
@@ -131,6 +99,42 @@ Supported Chains: **EVM (Solidity)** • **TON (FunC)** • **SUI (Move)** • *
   - UTXO management & raw transaction building • Bitcoin Core integration (TestShell, regtest)
 
 </details>
+
+---
+
+### 🖥️ Frontend
+
+- **Core Framework**
+  - Next.js (App Router) • TypeScript • React Server Components
+- **Styling**
+  - Tailwind CSS • Chakra UI
+- **Mini Apps Development**
+  - Telegram: WebApp SDK integration • Browser-based local mock system
+  - Base: OnchainKit integration • Base mini app SDK
+- **Wallet Integrations**
+  - TON Connect • EVM wallets (MetaMask, WalletConnect)
+
+---
+
+### ⚙️ Backend & API
+
+- **API Architecture**
+  - Next.js API Routes (BFF) • Prisma ORM • MySQL • REST API design
+- **External Integrations**
+  - Telegram Bot API (messages, payments, stars) • CoinGecko API (pricing & historical data)
+
+---
+
+### ☁️ Infrastructure & DevOps (AWS)
+
+**Production-grade AWS architecture**
+
+- **Core Infrastructure**
+  - EC2 (multi-instance, auto scaling) • Application Load Balancer • RDS (MySQL)
+- **Services**
+  - Lambda (scheduled jobs) • EventBridge (cron) • S3 (assets, metadata) • Route53 (domains)
+- **CI/CD**
+  - GitHub Actions • Branch-based deployment (`dev` → staging, `main` → production) • Zero-downtime deploy
 
 ---
 
