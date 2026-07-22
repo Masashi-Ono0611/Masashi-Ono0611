@@ -4,7 +4,7 @@
 🥯 Founder & Core builder of Bagel Finance  
 🏆 Multi-time Global Hackathon Winner  
 ⚡ Since 2017 in Crypto  
-🧠 Core Contributor to [gbrain](https://github.com/garrytan/gbrain), Y Combinator CEO Garry Tan's AI second brain
+🧠 Core Contributor to [GBrain](https://github.com/garrytan/gbrain), Y Combinator CEO Garry Tan's AI second brain
 
 ---
 
