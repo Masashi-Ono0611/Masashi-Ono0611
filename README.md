@@ -115,5 +115,7 @@ AWS • GCP • Azure • Docker • GitHub Actions CI/CD
 
 ## 🤝 Let's Connect  
 
-Always open for collaboration and open-source innovation.  
-[Follow & contact me on X (Twitter)](https://x.com/Masashi_Ono0611/)
+Always open for collaboration and open-source innovation.
+
+- 🐦 **X (Twitter)** — [@Masashi_Ono0611](https://x.com/Masashi_Ono0611)
+- ✈️ **Telegram (direct contact)** — [@Masashi_Ono0611](https://t.me/Masashi_Ono0611)
