@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Masa
 
 **Full-Stack Builder & Multi-Chain Smart Contract Engineer**  
-🥯 Core builder of Bagel Finance  
+🥯 Builder of Bagel Finance  
 🏆 Multi-time Global Hackathon Winner  
 ⚡ Since 2017 in Crypto  
 🧠 Core Contributor to [GBrain](https://github.com/garrytan/gbrain), Y Combinator CEO Garry Tan's AI second brain
